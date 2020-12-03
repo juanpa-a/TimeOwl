@@ -1,7 +1,3 @@
-// // const db = firebase.database();
-// const firebase = require("firebase");
-// const { firebase_config } = require("./firebase_config");
-
 const save_user_to_db = (uid, full_name, email, report_to_email, db) => {
   if (uid && full_name && email && report_to_email) {
     const ref = `usage/${uid}}`;

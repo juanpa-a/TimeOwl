@@ -30,7 +30,7 @@
   transition: visibility 0s linear .25s, opacity .25s linear;
 }
 
-.show_buttons {
+.show_button {
   opacity: 100;
   transition: opacity 1s linear;
   transition-delay: .25s;

@@ -1,0 +1,13 @@
+{
+    "es": {
+      "fullname": "Nombre completo",
+      "reportemail": "Correo a recibir reportes",
+      "register": "Regístrate"
+    },
+    "en": {
+      "fullname": "Full name",
+      "reportemail": "Report email",
+      "register": "Register"
+    }
+  }
+  

@@ -1,0 +1,29 @@
+.owl_animation {
+  width: 172px;
+  height: 172px;
+  border-radius: 50%;
+  background: #c4c4c4;
+  margin: auto;
+  margin-top: 64px;
+  margin-bottom: 54px;
+}
+
+.wrapper {
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+.fields {
+  display: grid;
+  grid-template-columns: 100%;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.links {
+    margin-left: 1.6em;
+    margin-top: .6em;
+}

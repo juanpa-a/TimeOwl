@@ -1,0 +1,19 @@
+{
+    "es": {
+      "full_name": "Nombre completo",
+      "email": "Correo electrónico",
+      "report_to_email": "Correo a recibir reportes",
+      "password": "Contraseña",
+      "password_confirmation": "Confirmar contraseña",
+      "register": "Regístrate"
+    },
+    "en": {
+      "full_name": "Full name",
+      "email": "Email",
+      "report_to_email": "Report email",
+      "password": "Password",
+      "password_confirmation": "Password confirmation",
+      "register": "Register"
+    }
+  }
+  

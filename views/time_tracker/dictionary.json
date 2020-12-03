@@ -1,0 +1,14 @@
+{
+  "es": {
+    "start_session": "Iniciar sesión",
+    "start_break": "Tomar un descanso",
+    "stop_session": "Terminar sesión",
+    "stop_break": "Terminar descanso"
+  },
+  "en": {
+    "start_session": "Start work session",
+    "start_break": "Take a break",
+    "stop_session": "End work session",
+    "stop_break": "End break"
+  }
+}

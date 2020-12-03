@@ -1,0 +1,16 @@
+{
+  "es": {
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "login": "Iniciar sesión",
+    "signup": "Regístrate",
+    "reset": "Restablecer contraseña"
+  },
+  "en": {
+    "email": "Email",
+    "password": "Password",
+    "login": "Log in",
+    "signup": "Sign up",
+    "reset": "Reset password"
+  }
+}

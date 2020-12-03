@@ -8,11 +8,11 @@ const get_current_app = async () => {
   ) {
     return curr_app.owner.name;
   }
-  return "Unknown apps.";
+  return "Unknown apps";
 };
 
 const add_app_usage = (app, usage) => {
-  const parsed_app_name = app.replace(/[^a-zA-Z0-9]/g, "-");
+  const parsed_app_name = app;
   if (usage.hasOwnProperty(parsed_app_name))
     usage[parsed_app_name] = ++usage[parsed_app_name];
   else usage[parsed_app_name] = 1;
